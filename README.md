@@ -1,68 +1,50 @@
-<!DOCTYPE html>
-<html lang="en">
-<head>
-  <meta charset="UTF-8">
-  <title>My GitHub Profile</title>
-  <style>
-    body {
-      font-family: Arial, sans-serif;
-      line-height: 1.6;
-      max-width: 800px;
-      margin: 40px auto;
-      padding: 0 20px;
-      background-color: #f4f4f4;
-      color: #333;
-    }
-    h1, h2 {
-      color: #007acc;
-    }
-    ul {
-      list-style-type: square;
-    }
-    a {
-      color: #007acc;
-      text-decoration: none;
-    }
-  </style>
-</head>
-<body>
+# 👋 Hi, I'm a Tech Enthusiast from SLTC!
 
-  <h1>👋 Hi, I'm [Your Name Here]</h1>
-  <p>I’m a Computer Science student at SLTC and a passionate tech enthusiast dedicated to building innovative solutions and leading impactful projects.</p>
+I’m a passionate Computer Science student at **SLTC** who loves building smart, impactful systems using web and cloud technologies.
 
-  <h2>🌟 Current Roles</h2>
-  <ul>
-    <li>Back Office Leadership Body Member – AIESEC SLTC</li>
-    <li>Coordination Team Head – Codmania v5.0 (IEEE CS SBC - SLTC)</li>
-    <li>Organizer – Sipsari Yathra (IT Awareness Program for Schools)</li>
-  </ul>
+---
 
-  <h2>🛠️ Skills & Tools</h2>
-  <ul>
-    <li>Languages: Python, JavaScript, HTML, CSS</li>
-    <li>Frameworks: Bootstrap 5, Firebase, Chart.js</li>
-    <li>Tools: GitHub, Figma, Firebase Firestore</li>
-  </ul>
+## 🌟 Roles & Leadership
 
-  <h2>🚀 Projects</h2>
-  <ul>
-    <li><strong>SLTC GO Hostel System</strong> – Local-based student tracking system with QR verification and admin dashboard.</li>
-    <li><strong>IoT Water Pump Control System</strong> – Cloud-connected smart irrigation solution for efficient water use.</li>
-    <li><strong>Blockchain in Supply Chain</strong> – Amazon Managed Blockchain to secure electronic supply chains.</li>
-  </ul>
+- 💼 Back Office Leadership Body Member – AIESEC SLTC (25.26 term)  
+- 🧠 Coordination Team Head – Codmania v5.0 (IEEE CS SBC SLTC)  
+- 📢 Organizer – *Sipsari Yathra* IT Awareness Program  
 
-  <h2>📚 Learning & Exploring</h2>
-  <p>Currently diving deeper into Firebase, authentication systems, real-time dashboards, and cloud hosting solutions.</p>
+---
 
-  <h2>📫 Connect with Me</h2>
-  <p>
-    <a href="mailto:youremail@example.com">Email</a> |
-    <a href="https://linkedin.com/in/yourprofile">LinkedIn</a> |
-    <a href="https://github.com/yourusername">GitHub</a>
-  </p>
+## 💻 Technologies I Work With
 
-  <h2>✨ Fun Fact</h2>
-  <p>I love organizing impactful events and tech awareness programs that make a real-world difference!</p>
+- **Frontend**: HTML, CSS, JavaScript, Bootstrap 5  
+- **Backend**: Firebase Firestore, Firebase Auth  
+- **Tools**: GitHub, Chart.js, Figma  
 
-</body>
-</html>
+---
+
+## 🚀 Ongoing Projects
+
+- 🔒 **SLTC GO Hostel System** – QR-based student check-in/out system with admin dashboard and analytics  
+- 💧 **IoT Water Pump Control** – Smart irrigation system using cloud and sensors  
+- 🔗 **Blockchain for Supply Chain** – Securing electronics transactions with Amazon Managed Blockchain  
+
+---
+
+## 📈 Currently Learning
+
+I’m diving deeper into **Firebase Authentication**, **real-time dashboards**, and **cloud deployments**.
+
+---
+
+## 📫 Connect with Me
+
+- 📧 Email: [youremail@example.com](mailto:youremail@example.com)  
+- 💼 LinkedIn: [linkedin.com/in/yourprofile](https://linkedin.com/in/yourprofile)  
+- 🧑‍💻 GitHub: [github.com/yourusername](https://github.com/yourusername)  
+
+---
+
+## 🎉 Fun Fact
+
+I love organizing tech events that create social impact and help students grow their IT skills!
+
+
+
